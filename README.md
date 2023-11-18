@@ -8,7 +8,7 @@ So here's my tiny Conky-setup for exactly that. It works with tiling window mana
 ## Installation
 
 - Obviously you will need Conky.
-- Move the conky.conv to your ```.config``` directory.
+- Move the ```conky.conv``` to your ```.config``` directory.
 - Maintain a file of your favorite quotes in ```~/.local/share/quotes/quotes.txt```.
 
 ## The quotes.txt-file
