@@ -22,3 +22,8 @@ See the following example:
 "Kids, you tried your best and failed miserably.\The lesson is never try!"Homer J. Simpson
 ```
 
+## Auto-Start after Boot
+Simply add the following line to your xinitrc:
+```shell
+conky &
+```
