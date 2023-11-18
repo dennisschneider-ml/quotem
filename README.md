@@ -3,6 +3,8 @@
 Quote 'em! Even in your minimalist setup you need quotes shown on your desktop to continue your journey towards minimalism and excellence! (At least I do ...) \
 So here's my tiny Conky-setup for exactly that. It works with tiling window managers, not being focusable and close to no memory/CPU footprint.
 
+![Screenshot](images/screenshot.png)
+
 ## Installation
 
 - Obviously you will need Conky.
