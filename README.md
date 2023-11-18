@@ -14,11 +14,11 @@ So here's my tiny Conky-setup for exactly that. It works with tiling window mana
 ## The quotes.txt-file
 
 Each line is a quote.
-Newlines are added with a LaTex-like ```\\```.
+Newlines are added with a Markdown-like ```\```.
 Quotes are to be put into quotation marks.
 The author follows right after.
 See the following example:
 ```
-"Kids, you tried your best and failed miserably.\\The lesson is never try!"Homer J. Simpson
+"Kids, you tried your best and failed miserably.\The lesson is never try!"Homer J. Simpson
 ```
 
