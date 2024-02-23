@@ -5,6 +5,7 @@ install:
 	@if [ ! -f ~/.local/share/quotem/quotes.toml ]; then \
 		cp ./quotes.toml ~/.local/share/quotem/quotes.toml; \
 	fi
+	mkdir -p ~/.config/conky
 	@if [ ! -f ~/.config/conky/conky.conf ]; then \
 		cp ./conky.conf ~/.config/conky/conky.conf; \
 	else \
